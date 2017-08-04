@@ -1,0 +1,48 @@
+body{
+	width:100%;
+	min-height:100%;
+	background:#fff;
+}
+#frame{
+	width:80%;
+	min-height:100%;
+	margin:0% 10% 0% 10%;
+	background:#f9f9f9;
+	box-shadow: 2px 3px 2px 3px #888888;
+}
+#header{
+	width:100%;
+	min-height:10%;
+	background:#3b5998;
+	box-shadow:0px 0px 2px 0px #888888;
+}
+
+#logo_wrapper{
+	width:40%;
+	min-height:10%;
+}
+#logo_wrapper p{
+	position:relative;
+	left:40px;
+	top:10px;
+	margin-bottom:1%;
+	font-size:200%;
+	font-weight:bold;
+	font-family: Impact, charcoal,sans-serif;
+	color:#fff;
+}
+
+#middle{
+	width:100%;
+	min-height:80%;
+	background-image: url('/img/Plain-design-pattern-dark-background-image-HD-resolution-latest-pack__1473868329_116.202.34.204.jpg');
+	margin:0;
+	margin-bottom:4px;
+}
+
+#footer{
+	width:100%;
+	min-height:10%;
+	margin:0;
+	background:#363636;
+}
